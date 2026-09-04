@@ -1,0 +1,7 @@
+name: Trigger-SecOps
+
+on: push
+jobs:
+  test:
+    run:
+     
